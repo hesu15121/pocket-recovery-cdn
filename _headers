@@ -1,0 +1,7 @@
+/code/*
+  Cache-Control: public, max-age=31536000, immutable
+  Access-Control-Allow-Origin: *
+  Access-Control-Allow-Methods: GET, HEAD, OPTIONS
+
+/code/0.1.2/Android/release.json
+  Cache-Control: public, max-age=60
