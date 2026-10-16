@@ -1,0 +1,147 @@
+{
+  "platform": "StandaloneWindows64",
+  "resourceVersion": "20261016160204810",
+  "files": [
+    {
+      "name": "04683411631f1d05279851d55f6173b1.bundle",
+      "sha256": "e3ee624314f362c8dbfdd0b5f58f3b197c4888915e253b0a61a3f64df676c63f",
+      "bytes": 7823
+    },
+    {
+      "name": "12b20f56d45da6b6087a128a6ff68a9f.bundle",
+      "sha256": "a9103699b9efb42ecbe5a858ba396eb7256b1cfc0555cf98fc58a598a29c2d9e",
+      "bytes": 1865
+    },
+    {
+      "name": "1f9f05d794f83c1f2ec469b80b3b341a.bundle",
+      "sha256": "683b0631d1d9094f4d11796d0f71897c2fc10263175b7d9abc7b36febbee8ede",
+      "bytes": 9748
+    },
+    {
+      "name": "20f7ac729239929130f9e8275c0f4fb2.bundle",
+      "sha256": "caadf672b33911c965b0bfffa824665e38487479ff42b13089ef50d1a6cab4f1",
+      "bytes": 9331
+    },
+    {
+      "name": "2b8338307dae2f5853abe7d45e29fe98.bundle",
+      "sha256": "11a19050531167b6ff3b76a3a1bae7e0a4f1ccf6eea24e9b6f2dd64fdd202571",
+      "bytes": 1388306
+    },
+    {
+      "name": "3bbe659dd1e77d9f189f409c5a588633.bundle",
+      "sha256": "71a0e9d3ce11804a7985abfe336bf156473416082453277a130599dafdd9757e",
+      "bytes": 1997
+    },
+    {
+      "name": "40cbc0bea08bb384bad5dd7ebc66bd55.bundle",
+      "sha256": "cb2346390f890c1492bd870dae26e05bc0718b7e4962e39030bb136b2b617ba5",
+      "bytes": 10224
+    },
+    {
+      "name": "44bbc08e3e79bc1bb3a5951bf1416db3.bundle",
+      "sha256": "605338b760d0de2a62eb88c4d28ee113cf401db4102e460e4f68e70af069dabb",
+      "bytes": 3416
+    },
+    {
+      "name": "50f1dce6b0011f4a453469212543156a.bundle",
+      "sha256": "a568bed18a2aa9feb2cc754d74d2758765037d9c5ee916af227ec4f89dad1a68",
+      "bytes": 1249331
+    },
+    {
+      "name": "66bf1f389cb014f855a46e475c5ed0ec.bundle",
+      "sha256": "a72e1a572574c7f58a6e756ceeb7f702ce0e3fd09a109ce084449081628aad12",
+      "bytes": 1611404
+    },
+    {
+      "name": "6b4aa8256aedf0977c2a4f6b3171a036.bundle",
+      "sha256": "0afe52c4d6c2ca33e18109ee14c9d46e96e5fb2f24097ce9a7566b2844985d8c",
+      "bytes": 9125
+    },
+    {
+      "name": "7d4368941e507e8c27ef950e3d0480b4.bundle",
+      "sha256": "aeeaeb2ea4ba71aa5d058c5093d15e6cc6e460f10307128512a611a2cf332b0f",
+      "bytes": 1233601
+    },
+    {
+      "name": "83c347125493a2cd3461a07717586d00.bundle",
+      "sha256": "9fd21baf95bb874e5124163fea093a1e38a627dcf7bfe18be111e1f691168811",
+      "bytes": 43254
+    },
+    {
+      "name": "8d105cd99f8aa5c422ecb00994396de5.bundle",
+      "sha256": "8d09cbcd677ee5d93a709bca9801445a85c4ca63d90c489e7a558712f302f391",
+      "bytes": 21056
+    },
+    {
+      "name": "a0cc12da473699421b3b6998d4f8c115.bundle",
+      "sha256": "fc9666cb66046182b2da9ce3b22823ca339e2f7627d780c2c5cf698cf66ff11f",
+      "bytes": 190828
+    },
+    {
+      "name": "a6f877fff95acd690faece13b045ec01.bundle",
+      "sha256": "4f9a87eb663782867fddd2001dc9783d3b71b87e25cc17fdf6006ee688e01c95",
+      "bytes": 8154
+    },
+    {
+      "name": "b3387cba2d2c3c375ae0f473f5b81fe5.bundle",
+      "sha256": "dea4fbea7156d9e087d08136082613a03eb824e7d46fb0b009370f235cb25cdd",
+      "bytes": 6918
+    },
+    {
+      "name": "bc1b9fb13fdaa4e067dd417f456d1cc9.bundle",
+      "sha256": "81193055ef2b3d41108007542475281e9f714df03419a966076f6335829fffb7",
+      "bytes": 1119965
+    },
+    {
+      "name": "cb864e79b2f3a2fb531a0a240c112a19.bundle",
+      "sha256": "58be3a0d4064c0f5ec17edd70cb1fc67bff2746e79574fbe5075eabdee35d790",
+      "bytes": 6533
+    },
+    {
+      "name": "cf40ed63a7a587b54ac029c7510001a8.bundle",
+      "sha256": "b3937482669611798693c3141739fe4be3914577604b243185b92e9d3de96511",
+      "bytes": 18926
+    },
+    {
+      "name": "cfad907b27fe6118e43c4322d303c069.bundle",
+      "sha256": "62d22284a09b13d68742b17dc5e62348c3afc8df4b760762cfb17d3e0d6457fa",
+      "bytes": 110542
+    },
+    {
+      "name": "dd6888d176e0d01f0b600626ef52a042.bundle",
+      "sha256": "039c5a10397d6677e5f468bd9360247ecfbfc92090b4af509558b8f12cc77c1f",
+      "bytes": 3355
+    },
+    {
+      "name": "DefaultPackage_20261016160204810.bytes",
+      "sha256": "7c8f47c6608aecf91f5377d24ffa442cd9c2a36c496fe0bec30c44cafda8e23c",
+      "bytes": 3290
+    },
+    {
+      "name": "DefaultPackage_20261016160204810.hash",
+      "sha256": "cf8cefea6dbf11612b0de3ff55468728fc91050204588f9bc8198bf1474ad4b5",
+      "bytes": 8
+    },
+    {
+      "name": "DefaultPackage.version",
+      "sha256": "0a707db897e334e65a3be19dbf772846e4eb5b6e70aecaa9bf83c6d8b732e201",
+      "bytes": 17
+    },
+    {
+      "name": "e1f42e27877b76279feb7a04ab87b38b.bundle",
+      "sha256": "fc1870d842d604cbff6148c6ed9f598c71d97169d12e3baf304ae7743e7106b5",
+      "bytes": 9720
+    },
+    {
+      "name": "e25906768b26fff8d0d8e9b869eab0e8.bundle",
+      "sha256": "2b51d552fbbfee488bcaf4d8fde23d25194ad6c0cf5715e4c03efd3da99abdd7",
+      "bytes": 5656
+    },
+    {
+      "name": "f8ae389c17c58aa4de552d623f5a09c5.bundle",
+      "sha256": "a3efec3694b25dcf3b1754081ec8b84eed4a2e4ba62ce8558ead79f71afcc4c2",
+      "bytes": 56426
+    }
+  ],
+  "playerVersion": "0.1.2"
+}
